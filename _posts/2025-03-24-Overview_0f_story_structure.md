@@ -11,7 +11,10 @@ Story structure is something which helps elevate your story. It becomes the base
 ### **Escalation: The driving force of Conflict**
 
 What is more important than anything in any story, a framework, sequence of events taking place? It is the conflict. The conflict and the struggle make the story. A compelling story is when the characters struggle, strive and are forced to make changes, learn from mistakes/setbacks and get back back strong. Stakes need to be increased inorder to achive these changes. Sanderson explains how to escalate using a method "Yes, But / No, And".
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1f02587c5e5174bacc24dbaa18b78018874c50f7
 The character attempts to solve a problem (Yes), but it comes with complications.
 Or, they fail (No), and things get even worse.
 
@@ -26,8 +29,7 @@ Escalations need to be in a gradual manner, a step by step approach. What happen
 
 ### **Story Circles and the Hero’s Journey**
 
-Joseph Campbell's monomyth is the most famous narrative structure, the hero's journey. But in this article we are going to consider Dan Harmon's story circle which Sanderson says is more flexible and simpler. he circle begins with a character in a state of ignorance or comfort, who is thrust into an adventure, faces trials, gains new knowledge, and returns home transformed.
-
+Joseph Campbell's monomyth is the most famous narrative structure, the hero's journey. But in this article we are going to consider Dan Harmon's story circle which Sanderson says is more flexible and simpler. The circle begins with a character in a state of ignorance or comfort, who is thrust into an adventure, faces trials, gains new knowledge, and returns home transformed.
 #### **Key Moments in the Story Circle:**
 
 Departure: The character leaves their comfort zone.
@@ -44,8 +46,7 @@ Whatever genre you are going to write be it character driven or epic fantasy, pr
 
 ### **The Try-Fail Cycle: Mastering Discovery Writing**
 
-Discovery writing is something where there is no partcular outlining. It is a technique where the writer allows for the plot and characters to develop organically.
-
+Discovery writing is something where there is no particular outlining. It is a technique where the writer allows for the plot and characters to develop organically.
 The cycle goes like this: Before a character can achieve their goal, they should encounter multiple failures, each more challenging than the last. The failures should arise naturally from the plot, forcing the character to adapt and grow.
 
 #### **How the Try-Fail Cycle Works:**
@@ -56,8 +57,7 @@ Attempt #2: They try a more complex or creative approach, but it also fails, oft
 
 Attempt #3: Success, but only after overcoming significant obstacles.
 
-Here the character's limitaions are revealed, the villains strengths are known and a lack of knowledge is also seen. This helps shape the protagonist to face the final obstacle. New subplots can be introduced and deepen the worldbuilding.
-
+Here the character's limitations are revealed, the villains strengths are known and a lack of knowledge is also seen. This helps shape the protagonist to face the final obstacle. New subplots can be introduced and deepen the worldbuilding.
 Example: Lets use Star Wars to illustrate the Try-Fail cycle in action.
 
 ![walking]({{ site.baseurl }}/assets/images/open-uri20150608-27674-18sx8vb_75ce646a.jpeg)
@@ -70,8 +70,7 @@ Third Attempt: He finally succeeds after facing his fears and accepting his limi
 
 ### **Avoiding Plot Holes:The Art of Hanging a Lantern**
 
-plot holes are pretty commonly faced by any writer during the writing phase. If we do not address these plot holes, users are generally taken aback and are no more involved in the story. They keep circiling back to that one unexplained event.
-
+plot holes are pretty commonly faced by any writer during the writing phase. If we do not address these plot holes, users are generally taken aback and are no more involved in the story. They keep circling back to that one unexplained event.
 To hang a lantern on something means acknowledging the issue within the narrative itself, often through a character’s dialogue or internal monologue. You typically see this on the stage. Maybe a portion of the set is rougher than the rest… the characters might point out an old lantern in that section that hasn’t worked in years. This implies to the audience that the writer knows that there’s something there, but it’s not important for you to pay attention to as an audience member. It keeps them in the story.
 
 #### **Example: The Survival of Police Officers in The Dark Knight Rises**
@@ -108,4 +107,4 @@ Act Three: The final battle against the Death Star.
 
 ### **Final Thoughts**
 
-Understanding the basic principles on how to use the said frameworks or structures to help elevate the story is the key to learning. There is no definite way to write a story. All these things need to help achieve the final goal of telling a beautiful story which gives a satisfaction to the audience. Given the opurtunity one should break from the conventional norms of writing a story and experiment. More and more practice, reading different techniques and ways of writing, analyzing a lot of different stories written can help in improving and identify your style of writing.
+Understanding the basic principles on how to use the said frameworks or structures to help elevate the story is the key to learning. There is no definite way to write a story. All these things need to help achieve the final goal of telling a beautiful story which gives a satisfaction to the audience. Given the opportunity one should break from the conventional norms of writing a story and experiment. More and more practice, reading different techniques and ways of writing, analyzing a lot of different stories written can help in improving and identify your style of writing.
