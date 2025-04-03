@@ -6,11 +6,11 @@ categories: [ Storytelling, Plot ]
 image: "https://imgs.search.brave.com/JOgVSpek8lp1xRazHxtRa8bRdUN1kzcjDslWRgBZMbY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Ymx1cmIuY29tL2Js/b2cvd3AtY29udGVu/dC91cGxvYWRzLzIw/MjEvMDIvV2hhdC1p/cy1hLXN0b3J5LXN0/cnVjdHVyZV8xLmpw/Zw"
 ---
 
-Story structure is something which helps elevate your story. It becomes the base for your story to build upon. It doesn't dictate what the story is going to be rather it acts as a road map. We should not be following the story structure too strictly other it may backfire. It should act like a frame work to help identify flaws and ensure natural flow of the story. When feeling something isgoing off while writing, story structure help identify and resolve the issue. 
+Story structure is something which helps elevate your story. It becomes the base for your story to build upon. It doesn't dictate what the story is going to be rather it acts as a road map. We should not be following the story structure too strictly otherwise it may backfire. It should act like a frame work to help identify flaws and ensure natural flow of the story. When feeling something isgoing off while writing, story structure help identify and resolve the issue. 
 
 ### **Escalation: The driving force of Conflict**
 
-What is more important than anything in any story, a framework, sequence of events taking place? It is the confilct. The conflict and the struggle make the story. A compelling story is when the characters struggle, strive and are forced to make changes, learn from mistakes/setbacks and get back back strong. Stakes need to be increased inorder to achive these changes. Sanderson explains how to escalate using a method "Yes, But / No, And".
+What is more important than anything in any story, a framework, sequence of events taking place? It is the conflict. The conflict and the struggle make the story. A compelling story is when the characters struggle, strive and are forced to make changes, learn from mistakes/setbacks and get back back strong. Stakes need to be increased inorder to achive these changes. Sanderson explains how to escalate using a method "Yes, But / No, And".
 
 The character attempts to solve a problem (Yes), but it comes with complications.
 Or, they fail (No), and things get even worse.
