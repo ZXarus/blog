@@ -368,3 +368,39 @@ Insertion at the head of LL
 Insertion at the tail of LL
 Insertion at the Kth position of LL
 Insertion before the value X in LL
+
+
+30-04-2025 & 01-05-2025
+Tuf
+Introduction to Doubly LL
+Deletion in Doubly LL
+Insertion in DLL
+Convert Array to DLL
+Delete head of DLL
+Delete Tail of DLL
+Delete Kth Element of DLL
+Removing given node in DLL
+Insert node before head in DLL
+Insert node before tail in DLL
+Insert node before (kth node) in DLL
+Insert before given node in DLL
+
+
+05-05-2025
+Tuf
+  Add two numbers in LL
+Segregate odd and even nodes in LL
+Sort a LL of 0's 1's and 2's
+Remove Nth node from the back of the LL
+Reverse a LL
+
+06-05-2025
+Tuf
+Add one to a number represented by LL
+Check if LL is palindrome or not
+Find the intersection point of Y LL
+Detect a loop in LL
+Find the starting point in LL
+Find Middle of Linked List
+Length of loop in LL
+Delete the middle node in LL
